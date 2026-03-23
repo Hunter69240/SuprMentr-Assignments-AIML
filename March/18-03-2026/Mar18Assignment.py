@@ -1,3 +1,10 @@
+'''
+Assignment (18/03/2026)
+
+Assignment Name : Customer Segmentation
+Description : Perform K-Means clustering on a mall dataset and describe customer groups.
+'''
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
